@@ -1,0 +1,12 @@
+1. Numbers -- odd & even
+Write a method which can identifies given number is even or odd
+
+EX:
+  identify(5) -> "Odd"
+  identify(6) -> "Even"
+
+2. Numbers - - Divide without / operator
+Write a method that can divide two numbers without using division operator
+
+3. FINRA :
+Write a method which prints out the numbers from 1 to 30, but print "FIN" instead of numbers for multiples of 3, "RA" instead of numbers for numbers that are multiples of 5, and a multiple of both 3 and 5 for "FINRA" instead of the number.
