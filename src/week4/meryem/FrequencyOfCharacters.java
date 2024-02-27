@@ -1,7 +1,7 @@
 //** created by Maryam 
 
 
-package src.week4.meryem;
+package week4.meryem;
 
 public class FrequencyOfCharacters {
 
