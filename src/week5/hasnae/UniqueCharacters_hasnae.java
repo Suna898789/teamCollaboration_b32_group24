@@ -1,13 +1,28 @@
 package week5.hasnae;
 
+import java.util.Scanner;
+
 public class UniqueCharacters_hasnae {
     public static void main(String[] args) {
-        String Unique = uniqueCharacters("AAABCCCDEEEFCDDD");
-        System.out.println("Unique = " + Unique);
+
+        uniqueCharacters();
+
     }
 
 
-    public static String uniqueCharacters(String str) {
+    public static void uniqueCharacters() {
+
+        System.out.println("Enter your string");
+        Scanner input = new Scanner(System.in);
+        String str = input.nextLine();
+
+        while (str.isEmpty() || str.isBlank()) {
+            System.out.println("Invalid String");
+            System.out.println("Enter a string");
+            input = new Scanner(System.in);
+            str = input.nextLine();
+
+        }
 
 
         String unique = "";
@@ -19,8 +34,9 @@ public class UniqueCharacters_hasnae {
                 unique += each;
             }
 
+
         }
-        return unique;
+        System.out.println("unique = " + unique);
 
 
     }
