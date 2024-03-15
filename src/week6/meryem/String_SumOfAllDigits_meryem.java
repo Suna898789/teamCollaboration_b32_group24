@@ -1,7 +1,7 @@
 //** created by Maryam 
 
 
-package src.week6.meryem;
+package week6.meryem;
 
 public class String_SumOfAllDigits_meryem {
 

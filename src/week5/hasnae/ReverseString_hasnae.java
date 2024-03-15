@@ -25,11 +25,11 @@ public class ReverseString_hasnae {
             str = input.nextLine();
 
 
-            String reverse = "";
+            String reverse="";
 
             for (int i = str.length() - 1; i >= 0; i--) {
                 char each = str.charAt(i);
-                reverse += each;
+               reverse += each;
             }
 
             System.out.println("reverse = " + reverse);
