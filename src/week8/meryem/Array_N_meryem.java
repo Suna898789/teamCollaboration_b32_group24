@@ -1,7 +1,7 @@
 //** created by Maryam 
 
 
-package src.week8.meryem;
+package week8.meryem;
 
 import java.util.HashSet;
 import java.util.Set;
