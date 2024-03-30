@@ -6,7 +6,7 @@ public class Array_N_uniqueIntegers_SumUpToZero_hasnae {
 
     public static int[] N_UniqueIntegers_sumUpToZero(int N) {
         if (N < 2 || N >= 100) {
-            throw new IllegalArgumentException("Invalid number!!!! Number should be between 2 and 99 ");
+            throw new IllegalArgumentException("Invalid number!!!! Number should be between 2 and 99 (inclusive");
         }
 
         // Initialize an array to store the unique integers
