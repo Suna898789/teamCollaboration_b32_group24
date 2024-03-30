@@ -1,7 +1,7 @@
 //** created by Maryam 
 
 
-package src.week8.meryem;
+package week8.meryem;
 
 public class Array_MoveZeroToTheEnd_meryem {
 
