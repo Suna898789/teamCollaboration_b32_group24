@@ -3,7 +3,7 @@ package week9.hasnae;
 import java.util.ArrayList;
 import java.util.List;
 
-public class List_RemoveSomeValues {
+public class List_RemoveSomeValues_hasnae {
 
     public static void main(String[] args) {
 
