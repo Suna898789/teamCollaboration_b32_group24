@@ -1,0 +1,10 @@
+
+1️⃣  Array_concat2Arrays
+Write a return method that can concatenate two arrays
+
+2️⃣  List_RemoveNameAhmed
+Given a list of people names: "Ahmed", "John", Eric", "Ahmed", "Aaron".....
+Write a java operation to remove all the names named Ahmed
+
+3️⃣ List_RemoveSomeValues
+Given a list of Integers 1, 2, 3, 4, 5, 6, 101, 200, 300....etc. remove all values greater than 100.
