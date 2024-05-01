@@ -1,0 +1,9 @@
+📌 Java Coding Tasks - Week-11📌
+
+1️⃣
+ Map_Frequency of Characters
+Write a method that prints the frequency of each character from a String.
+
+2️⃣
+Map_Min value
+Write a method that can return the minimum value from a map (DO NOT use sort method).
